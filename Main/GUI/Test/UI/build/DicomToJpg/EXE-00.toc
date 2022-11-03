@@ -1,0 +1,667 @@
+('D:\\Documents\\Pycharm '
+ 'Projects\\BoneScan\\Main\\GUI\\Test\\UI\\dist\\DicomToJpg.exe',
+ False,
+ False,
+ False,
+ 'd:\\documents\\pycharm '
+ 'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1"><assemblyIdentity name="DicomToJpg" processorArchitecture="amd64" type="win32" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity language="*" name="Microsoft.Windows.Common-Controls" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" type="win32" version="6.0.0.0"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
+ True,
+ True,
+ None,
+ None,
+ None,
+ 'D:\\Documents\\Pycharm '
+ 'Projects\\BoneScan\\Main\\GUI\\Test\\UI\\build\\DicomToJpg\\DicomToJpg.pkg',
+ [('PYZ-00.pyz',
+   'D:\\Documents\\Pycharm '
+   'Projects\\BoneScan\\Main\\GUI\\Test\\UI\\build\\DicomToJpg\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'E:\\Python\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyimod04_ctypes',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyside2',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyside2.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('DicomToJpg',
+   'D:\\Documents\\Pycharm '
+   'Projects\\BoneScan\\Main\\GUI\\Test\\UI\\DicomToJpg.py',
+   'PYSOURCE'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll', 'E:\\Python\\VCRUNTIME140.dll', 'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('python37.dll', 'E:\\Python\\python37.dll', 'BINARY'),
+  ('ucrtbase.dll', 'C:\\WINDOWS\\system32\\ucrtbase.dll', 'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qwebgl.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qicns.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('opengl32sw.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\opengl32sw.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qwebp.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\styles\\qwindowsvistastyle.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qpdf.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('d3dcompiler_47.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qtiff.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('libGLESv2.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\libGLESv2.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qsvg.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qtga.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('cv2\\opencv_videoio_ffmpeg451_64.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\cv2\\opencv_videoio_ffmpeg451_64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\bearer\\qgenericbearer.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\bearer\\qgenericbearer.dll',
+   'BINARY'),
+  ('libopenblas.GK7GX5KEQ4F6UYO3P26ULGBQYHGQO7J4.gfortran-win_amd64.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\.libs\\libopenblas.GK7GX5KEQ4F6UYO3P26ULGBQYHGQO7J4.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qjpeg.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qico.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qwindows.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\iconengines\\qsvgicon.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qminimal.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qdirect2d.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qdirect2d.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qgif.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qoffscreen.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qwbmp.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('libEGL.dll',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\libEGL.dll',
+   'BINARY'),
+  ('_hashlib', 'E:\\Python\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_ctypes', 'E:\\Python\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('select', 'E:\\Python\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket', 'E:\\Python\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_ssl', 'E:\\Python\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('unicodedata', 'E:\\Python\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_lzma', 'E:\\Python\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2', 'E:\\Python\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('pyexpat', 'E:\\Python\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('PySide2.QtWidgets',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PySide2.QtNetwork',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\QtNetwork.pyd',
+   'EXTENSION'),
+  ('shiboken2.shiboken2',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\shiboken2\\shiboken2.pyd',
+   'EXTENSION'),
+  ('PySide2.QtGui',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\QtGui.pyd',
+   'EXTENSION'),
+  ('PySide2.QtCore',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\QtCore.pyd',
+   'EXTENSION'),
+  ('_decimal', 'E:\\Python\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('PIL._webp',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PIL\\_webp.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imagingtk',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PIL\\_imagingtk.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imaging',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PIL\\_imaging.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_umath',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_tests',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg.lapack_lite',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.mtrand',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\mtrand.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._sfc64',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\_sfc64.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._philox',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\_philox.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._pcg64',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\_pcg64.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._mt19937',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\_mt19937.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.bit_generator',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\bit_generator.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._generator',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\_generator.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._bounded_integers',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._common',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\random\\_common.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.fft._pocketfft_internal',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg._umath_linalg',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('cv2.cv2',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\cv2\\cv2.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('Qt5WebSockets.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('Qt5Core.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5Core.dll',
+   'BINARY'),
+  ('Qt5Quick.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5Quick.dll',
+   'BINARY'),
+  ('Qt5Network.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5Network.dll',
+   'BINARY'),
+  ('Qt5Gui.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5Gui.dll',
+   'BINARY'),
+  ('MSVCP140.dll', 'C:\\WINDOWS\\system32\\MSVCP140.dll', 'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll', 'C:\\WINDOWS\\system32\\VCRUNTIME140_1.dll', 'BINARY'),
+  ('Qt5Widgets.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5Widgets.dll',
+   'BINARY'),
+  ('Qt5Pdf.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5Pdf.dll',
+   'BINARY'),
+  ('Qt5Svg.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5Svg.dll',
+   'BINARY'),
+  ('Qt5VirtualKeyboard.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5VirtualKeyboard.dll',
+   'BINARY'),
+  ('Qt5Qml.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5Qml.dll',
+   'BINARY'),
+  ('Qt5DBus.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5DBus.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll', 'E:\\Python\\DLLs\\libcrypto-1_1.dll', 'BINARY'),
+  ('libssl-1_1.dll', 'E:\\Python\\DLLs\\libssl-1_1.dll', 'BINARY'),
+  ('python3.dll', 'E:\\Python\\python3.dll', 'BINARY'),
+  ('pyside2.abi3.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\pyside2.abi3.dll',
+   'BINARY'),
+  ('shiboken2.abi3.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\shiboken2\\shiboken2.abi3.dll',
+   'BINARY'),
+  ('MSVCP140_1.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\MSVCP140_1.dll',
+   'BINARY'),
+  ('Qt5QmlModels.dll',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Documents\\Pycharm '
+   'Projects\\BoneScan\\Main\\GUI\\Test\\UI\\build\\DicomToJpg\\base_library.zip',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_sk.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_cs.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_en.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ca.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_gd.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ko.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_da.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_fr.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_de.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_fi.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_uk.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ru.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('cv2\\__init__.py',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\cv2\\__init__.py',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_it.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_zh_TW.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ja.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_es.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('cv2\\version.py',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\cv2\\version.py',
+   'DATA'),
+  ('PySide2\\qt.conf',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\qt.conf',
+   'DATA'),
+  ('cv2\\data\\__init__.py',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\cv2\\data\\__init__.py',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_hu.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_pl.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ar.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_he.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_bg.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_tr.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_lv.qm',
+   'D:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PySide2\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('setuptools-54.2.0.dist-info\\dependency_links.txt',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\setuptools-54.2.0.dist-info\\dependency_links.txt',
+   'DATA'),
+  ('pyinstaller-4.9.dist-info\\top_level.txt',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\pyinstaller-4.9.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\METADATA',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-4.9.dist-info\\REQUESTED',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\pyinstaller-4.9.dist-info\\REQUESTED',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\RECORD',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\RECORD',
+   'DATA'),
+  ('pyinstaller-4.9.dist-info\\COPYING.txt',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\pyinstaller-4.9.dist-info\\COPYING.txt',
+   'DATA'),
+  ('setuptools-54.2.0.dist-info\\INSTALLER',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\setuptools-54.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-54.2.0.dist-info\\entry_points.txt',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\setuptools-54.2.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('pyinstaller-4.9.dist-info\\INSTALLER',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\pyinstaller-4.9.dist-info\\INSTALLER',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\INSTALLER',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-54.2.0.dist-info\\LICENSE',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\setuptools-54.2.0.dist-info\\LICENSE',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\WHEEL',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\WHEEL',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\zip-safe',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\zip-safe',
+   'DATA'),
+  ('setuptools-54.2.0.dist-info\\METADATA',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\setuptools-54.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-54.2.0.dist-info\\top_level.txt',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\setuptools-54.2.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\top_level.txt',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.2.dist-info\\LICENSE',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\altgraph-0.17.2.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools-54.2.0.dist-info\\WHEEL',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\setuptools-54.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-4.9.dist-info\\WHEEL',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\pyinstaller-4.9.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-4.9.dist-info\\METADATA',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\pyinstaller-4.9.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-4.9.dist-info\\entry_points.txt',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\pyinstaller-4.9.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-54.2.0.dist-info\\RECORD',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\setuptools-54.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('pyinstaller-4.9.dist-info\\RECORD',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\pyinstaller-4.9.dist-info\\RECORD',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1645778413,
+ [('runw.exe',
+   'd:\\documents\\pycharm '
+   'projects\\bonescan\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
+   'EXECUTABLE')])
